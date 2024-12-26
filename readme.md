@@ -59,3 +59,7 @@ Deploy the application on a cloud platform (e.g., AWS, Heroku).
 Extend support for real-time video input.
 Contributing
 Contributions are welcome! Please create a pull request or raise an issue for improvements.
+
+first you have to add your data set in train.py
+then you can run train.py it takes long time to train
+after that run main.py
